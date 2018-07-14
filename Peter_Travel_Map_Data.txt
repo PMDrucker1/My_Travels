@@ -1,0 +1,68 @@
+NAME,LOCATION,LAT,LON
+Albany,US-New York-ALBANY,42.65,-73.75
+New York City,US-New York-NEW YORK CITY,40.71,-74.00
+Philadelphia,US-Pennsylvania-PHILADELPHIA,39.95,-75.16
+Boston,US-Massacheusetts-BOSTON,42.36,-71.05
+Springfield,US-Massacheusetts-SPRINGFIELD,42.10,-72.58
+Montpelier,US-Vermont-MONTPELIER,44.26,-72.57
+Burlington,US-Vermont-BURLINGTON,44.47,-73.21
+Bennington,US-Vermont-BENNINGTON,42.87,-73.19
+Saratoga,US-New York-SARATOGA,43.08,-73.78
+Syracuse,US-New York-SYRACUSE,43.04,-76.14
+Buffalo,US-New York-BUFFALO,42.88,-78.87
+Niagara Falls,US-New York-NIAGARA FALLS,43.09,-79.03
+Cleveland,US-Ohio-CLEVELAND,41.49,-81.69
+Columbus,US-Ohio-COLUMBUS,39.96,-82.99
+Chicago,US-Illinois-CHICAGO,41.87,-87.62
+Atlantic City,US-New Jersey-ATLANTIC CITY,39.36,-74.42
+Baltimore,US-Maryland-BALTIMORE,39.29,-76.61
+Washington D.C.,US-District of Columbia,38.90,-77.03
+Raleigh,US-North Carolina-RALEIGH,35.77,-78.63
+Orlando,US-Florida-ORLANDO,28.53,-81.37
+Daytona Beach,US-Florida-DAYTONA BEACH,29.21,-81.02
+Sacramento,US-California-SACRAMENTO,38.58,-121.49
+San Francisco,US-California-SAN FRANCISCO,37.77,-122.41
+San Diego,US-California-SAN DIEGO,32.71,-117.16
+Downieville,US-California-DOWNIEVILLE,39.55,-120.82
+Las Vegas,US-Nevada-LAS VEGAS,36.16,-115.13
+Seattle,US-Washington-SEATTLE,47.60,-122.33
+Austin,US-Texas-AUSTIN,30.26,-97.74
+Beijing,China-Beijing 北京,39.90,116.40
+Harbin,China-Heilongjiang-HARBIN 黑龙江哈尔滨,45.80,126.53
+Qiqiha'er,China-Heilongjiang-QIQIHAER 齐齐哈尔,47.35,123.91
+Boketu,China-Inner Mongolia- BOKETU 内蒙古博客图,48.75,121.91
+HulunBei'er,China-Inner Mongolia-HULUNBEIER 内蒙古呼伦贝尔,49.21,119.76
+Manzhouli,China-Inner Mongolia-MANZHOULI 内蒙古满洲里,49.59,117.37
+Xining,China-Qinghai-XINING 青海西宁,36.61,101.77
+Tongren,China-Qinghai-TONGREN 青海同仁,35.51,102.01
+Yushu,China-Qinghai-YUSHU 青海玉树,33.01,97.09
+Lanzhou,China-Gansu-LANZHOU 甘肃兰州,36.06,103.83
+Mianyang,China-Sichuan-MIANYANG 四川绵阳,31.46,104.67
+Deyang,China-Sichuan-DEYANG 四川德阳,31.12,104.39
+Chengdu,China-Sichuan-CHENGDU 四川成都,30.57,104.06
+Chongqing,China-CHONGQING 重庆,29.43,106.91
+Wuhan,China-Hubei-WUHAN 湖北武汉,30.59,114.30
+Hefei,China-Anhui-HEFEI 安徽合肥,31.82,117.22
+Bengbu,China-Anhui-BENGBU 安徽蚌埠,32.91,117.38
+Nanjing,China-Jiangsu-NANJING 江苏南京,32.06,118.79
+Suzhou,China-Jiangsu-SUZHOU 江苏苏州,31.29,120.58
+Shanghai,China-SHANGHAI 上海,31.23,121.47
+Tengzhou,China-Shandong-TENGZHOU 山东滕州,35.08,117.16
+Tai'an,China-Shandong-TAIAN 山东泰安,36.20,117.08
+Qufu,China-Shandong-QUFU 山东曲阜,35.58,116.98
+Qingdao,China-Shandong-QINGDAO 山东青岛,36.06,120.38
+Lijiang,China-Yunnan-LIJIANG 云南丽江,26.85,100.22
+Dali,China-Yunnan-DALI 云南大理,25.60,100.26
+Shaxi,China-Yunnan-SHAXI 云南沙溪,26.31,99.85
+Xishuangbanna,China-Yunnan-XISHUANGBANNA 云南西双版纳,22.00,100.79
+Mangshi,China-Yunnan-MANGSHI 云南芒市,24.43,98.58
+Tengchong,China-Yunnan-TENGCHONG 云南腾冲,25.02,98.49
+Kunming,China-Yunnan-KUNMING 云南昆明,24.88,102.83
+Guangzhou,China-Guangdong-GUANGZHOU 广东广州,23.12,113.26
+Shenzhen,China-Guangdong-SHENZHEN 广东深圳,22.54,114.05
+Hong Kong,China-HONG KONG 香港,22.39,114.10
+Bangkok,Thailand-BANGKOK,13.75,100.50
+Kuala Lumpur,Malaysia-KUALA LUMPUR,3.13,101.68
+Singapore,SINGAPORE,1.35,103.81
+Montriel, Canada-Quebec-MONTRIEL,45.50,-73.56
+Ottawa, Canada-Ontario-OTTAWA,45.42,-75.69
